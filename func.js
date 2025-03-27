@@ -1,3 +1,3 @@
 const func=()=>{
-    alert("this is my new 1000 ficher")
+    return "this is my new 1000 fi"
 }
